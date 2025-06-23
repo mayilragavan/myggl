@@ -1,1 +1,3 @@
 created a test1.txt file
+
+And my text file created on Github cloned to my local machine
